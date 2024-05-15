@@ -33,10 +33,10 @@ onderdelen communicatieplan:
 
 Communicatieplan:
   doel                : - vorm: informatief
-                        - resultaat: dat Stevens tevreden is over netwerk en wijzing personeelsbeleid
+                        - resultaat: dat Stevens tevreden is over netwerk en wijziging personeelsbeleid
   doelgroep           : - hoofddoelgroep: de directeur
                         - subdoelgroep: de adviseurs en de office manager
-  inhoud boodschap    : adviezen over goede en economisch verantwoorde vervangende apparatuur evanals software, benadrukken
+  inhoud boodschap    : adviezen over goede en economisch verantwoorde vervangende apparatuur evenals software, benadrukken
                         dat de gekozen spullen een goed prijs/kwaliteit verhouding hebben.
   inleven in doelgroep: - ontvanger: zuinig, kritisch, weerstand
                         - reactie  : te duur, te veel werk
@@ -54,7 +54,7 @@ producten: - vpn opzetten
            - netwerk uitbreiden tot minimaal 20 gebruikers
            - de laserprinter behouden, eventuele andere printers de deur uit
            - desktop van manager vervangen
-           - MS server op linux laten draaien
+           - MS server op Linux laten draaien
            - OpenOffice gaan draaien ipv MS
            - personeel vastbinden op kantoor
 
@@ -72,10 +72,15 @@ doelgroep : Op de eerste plaats is de doelgroep de directeur/eigenaar zelf, daar
 inhoud boodschap: Marcel zou graag zien dat zijn personeel onderling meer ervaringen uitwisselt en dat er samen wordt nagedacht over adviezen voor klanten. Als zijn personeel meer op kantoor zou zitten zou dat bijdragen aan dat proces.
 inleven in de doelgroep: Graag wil Marcel nieuwe apparatuur, echter mag dit niet teveel geld kosten. Bij tegengas is het raadzaam de goede prijs/kwaliteit verhoudingen te benadrukken.
 vorm van de boodschap: Een formeel tweegesprek heeft in deze situatie de voorkeur.
-manieren van aansluiten: 
-hulp: 
-globale strategie; actiepad:
-gespreksstrategie per actie:
+manieren van aansluiten: samenwerkende opstelling
+hulp: powerpoint presentatie
+globale strategie; actiepad: samenwerkende opstelling met stevens
+  - wie: stevens
+  - wat: reorganisatie
+  - waar: op stevens kantoor
+  - wanneer: morgen
+  - waarom: omdat dat gevraagd wordt godverdomme!
+gespreksstrategie per actie: 
 
 
 
@@ -83,7 +88,7 @@ gespreksstrategie per actie:
 
 Plan:
 
-Als adviseur zijnde hebben we als doel te informeren en zodoende houden voornamelijk die vorm aan. Echter zullen we Stevens wel moeten enthousiasmeren omtrent de gekozen upgrades van zijn ICT producten. Daarnaast is het de bedoeling dat hij zich kan vinden in de adviezen omtrent zijn personeelsbeleid. Naast de heer Stevens als hoofddoelgroep dienen we de adviseurs en de office manager ook te betrekken bij de adviezen.
+Als adviseur zijnde hebben we als doel te informeren en zodoende houden we voornamelijk die vorm aan. Echter zullen we Stevens wel moeten enthousiasmeren omtrent de gekozen upgrades van zijn ICT producten. Daarnaast is het de bedoeling dat hij zich kan vinden in de adviezen omtrent zijn personeelsbeleid. Naast de heer Stevens als hoofddoelgroep dienen we de adviseurs en de office manager ook te betrekken bij de adviezen.
 We zullen wat betreft upgrades van apparatuur moeten benadrukken dat het om een uitstekende prijs/kwaliteit verhouding gaat, en dat de aankopen zeer nodig zijn en zichzelf zullen terugverdienen d.m.v. een verhoogde productiviteit. Daarnaast zal het overige personeel zich moeten realiseren dat meer uren op kantoor op lange termijn, naast goed voor het bedrijf, ook in hun eigen voordeel zal werken.
 Gezien de zuinigheid van Stevens zullen we moeten blijven benadrukken wat een uitstekend goede investering de upgrades zijn voor de voortgang van zijn bedrijf. Ook zullen we bij tegengas van het personeel omtrent de wijzigingen moeten overtuigen dat het ook in hun eigen belang is.
 De vorm die hier de voorkeur heeft is het gebruikmaken van een powerpoint presentatie
@@ -97,5 +102,42 @@ probleem:
 
 
  - Moet het communicatieplan dienen ter ondersteuning voor het gesprek tussen mij/mijn manager en Stevens, of voor een gesprek tussen Stevens en zijn personeel.
- - De schuingedrukte voorbeeld stukjes in het boek lezen vaak als stukjes uit een communicatieplan, echter lezen ze soms ook als een beschrijving van ene 'Hans' die zèlf een communicatieplan aan het opstellen is.
+ - De schuingedrukte voorbeeld stukjes in het boek lezen vaak als stukjes uit een communicatieplan, echter lezen ze soms ook als een beschrijving van ene 'Hans' die zelf een communicatieplan aan het opstellen is.
  - In de tweede alinea van de vraag ('Daaraan gekoppeld geeft u een eerste advies') wordt er ingegaan op 'manieren van aansluiten'. Echter is dat toch iets wat al behandelt is in het communicatieplan wat in de eerste alinea opgesteld dient te worden?
+
+
+REACTIE OP VRAGEN:
+
+Beste student,
+
+Het doel van het gesprek is om in kaart te brengen wat er aan apparatuur en software is, wat vervangen of uitgebreid moet worden en wat behouden kan blijven. Het doel van de opdracht is om aan te geven hoe je het gesprek gaat voeren en welke vragen je gaat stellen, dus het antwoord heb je nog niet nodig. Jij voert zelf het gesprek.
+
+Het gaat om één betoog met gebruikmaking van de 9 punten.
+
+Vriendelijke groet,
+
+Esther de 
+
+
+oplossingen:
+  - om de veiligheid te bevorderen moet er een degelijke VPN-verbinding komen
+  - vervang de oude laptops
+  - breid de netwerkcapaciteit uit voor minimaal 20 medewerkers
+  - zie boven
+  - vraag naar staat laserprinter, vervang die zo nodig
+  - zie boven
+  - repareer desktop van office manager
+  - schakel op de server over naar Linux, lekker goedkoop
+  - vervang MS Office door LibreOffice, ook lekker goedkoop
+
+
+poging 1000:
+
+Als adviseur zijnde hebben we als doel te informeren en zodoende houden we voornamelijk die vorm aan. Echter zullen we Stevens wel moeten enthousiasmeren omtrent de gekozen upgrades van zijn ICT producten. Daarnaast is het de bedoeling dat hij zich kan vinden in de adviezen omtrent zijn personeelsbeleid. Naast de heer Stevens als hoofddoelgroep dienen we de adviseurs en de office manager ook te betrekken bij de adviezen.
+We zullen wat betreft upgrades van apparatuur moeten benadrukken dat het om een uitstekende prijs/kwaliteit verhouding gaat, en dat de aankopen zeer nodig zijn en zichzelf zullen terugverdienen d.m.v. een verhoogde productiviteit. Daarnaast zal het overige personeel zich moeten realiseren dat meer uren op kantoor op lange termijn, naast goed voor het bedrijf, ook in hun eigen voordeel zal werken.
+Gezien de zuinigheid van Stevens zullen we moeten blijven benadrukken wat een uitstekend goede investering de upgrades zijn voor de voortgang van zijn bedrijf. Ook zullen we bij tegengas van het personeel omtrent de wijzigingen moeten overtuigen dat het ook in hun eigen belang is.
+De vorm die hier de voorkeur heeft is het gebruikmaken van een powerpoint presentatie
+
+Aangezien veiligheid een hoge prioriteit heeft luidt het advies om te investeren in een degelijke VPN verbinding. De kosten die om de hoek komen kijken wanneer de beveiliging wordt doorbroken overstijgen de kosten van een VPN. Daarmee is dit een verstandige investering. Daarnaast kunnen de laptops het beste vervangen worden, aangezien oude laptops traag werken en zodoende de productiviteit verlagen.
+De netwerkcapaciteit kan het best verhoogd worden voor minimaal 20 werkstations zodat het de groei van medewerkers niet in de weg komt te zitten. Aangezien een volledig paperless office er voor nu nog niet in zit, zal er tenminste één printer aanwezig moeten zijn. Mocht de huidige printer nog naar behoren functioneren dan is er geen reden om die te vervangen.
+Als de desktop van de office manager te repareren valt, kan deze behouden blijven, anders zal deze het best vervangen kunnen worden. Qua software kan er flink bespaard worden door over te stappen van Microsoft op gelijkwaardige Linux producten. Dit geldt zowel voor de server als voor de clients. Ons advies luid om dan voor de clients ook het LibreOffice pakket te nemen.
